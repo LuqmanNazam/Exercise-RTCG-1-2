@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AlienTile" size="0.495000 0.495000" />
+    <ImageTarget name="AlienGround" size="0.350000 0.350000" />
+  </Tracking>
+</QCARConfig>
